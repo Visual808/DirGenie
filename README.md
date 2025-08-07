@@ -163,21 +163,6 @@ You may need to adjust PowerShell execution policy:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
-## Contributing
-
-Contributions are welcome through the following channels:
-
-- **Bug Reports** - Submit detailed issue reports via GitHub Issues
-- **Feature Requests** - Propose new functionality or improvements
-- **Pull Requests** - Submit code changes following project conventions
-- **Documentation** - Help improve documentation clarity and completeness
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Include appropriate error handling
-- Test changes across multiple platforms when possible
-- Update documentation for new features
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for complete terms and conditions.
